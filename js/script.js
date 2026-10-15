@@ -9,7 +9,7 @@ const CONFIG = {
   API_ENDPOINT: 'https://script.google.com/macros/s/AKfycbw11Ur9RwCvlziVR13iWl9SprFCMxswhefHHgR08yBv9PIvNHRqwM88-a-JuYzyH1SD/exec',
 
   // Paystack PUBLIC key (pk_test_... while testing, pk_live_... for production)
-  PAYSTACK_PUBLIC_KEY: 'pk_test_436a68b37084a73946f24c1f812c5394b039f6cf',
+  PAYSTACK_PUBLIC_KEY: 'pk_live_e89b7c5e5dcc2c391f131c4179e04e037713c4f5',
 
   CURRENCY: 'NGN',
 
