@@ -6,7 +6,7 @@
 
 /* ============ CONFIGURATION ============ */
 const CONFIG = {
-  API_ENDPOINT: 'https://script.google.com/macros/s/AKfycbw11Ur9RwCvlziVR13iWl9SprFCMxswhefHHgR08yBv9PIvNHRqwM88-a-JuYzyH1SD/exec',
+  API_ENDPOINT: 'https://script.google.com/macros/s/AKfycbxGVt_wwMtQ61V0qJbEXulEwsaMYHJTG6KiUOpjcbrAxgVRaM4HUiLAFCki5dWfoATuHA/exec',
 
   // Paystack PUBLIC key (pk_test_... while testing, pk_live_... for production)
   PAYSTACK_PUBLIC_KEY: 'pk_live_e89b7c5e5dcc2c391f131c4179e04e037713c4f5',
